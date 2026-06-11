@@ -1,7 +1,3 @@
-# wdlabs Logo
+# wdlabs/W5D Labs/WBLD Logo
 
-Figma design file for the wdlabs logo.
-
-## Current status
-
-![Logo Snapshot](snapshot.png)
+Logo drafts for the wdlabs/W5D Labs/WBLD organisation (name not yet determined).
